@@ -98,6 +98,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Polygon.io](https://polygon.io/) – Real-time and historical financial market data APIs.
 - [Eulerpool](https://eulerpool.com/financial-data-api) – Financial data API for equities, ETFs, crypto, forex, bonds, and macroeconomic datasets.
 - [Quandl (Nasdaq Data Link)](https://data.nasdaq.com/) – Economic and financial datasets.
+- [Level SMB Financial & Software Benchmarks](https://levelcfo.com/benchmarks/) - Open CSV and JSON datasets covering industry gross/EBITDA margins, working capital (DSO/DPO/CCC), and ERP/subledger reconciliation benchmarks ([GitHub](https://github.com/levelcfo/smb-financial-benchmarks)).
 
 ## Fraud, Risk & Compliance
 
